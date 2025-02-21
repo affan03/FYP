@@ -1,0 +1,9 @@
+numpy==1.23.5
+
+pandas==2.2.2
+opencv-python
+scikit-learn==1.2.2
+uvicorn
+fastapi
+tensorflow==2.13.0
+
